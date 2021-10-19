@@ -1,2 +1,4 @@
 Hello
 folks!
+Hello
+buddy!
